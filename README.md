@@ -1,2 +1,2 @@
-# Data Analysis (Python,SQL,R and Tableau)
+# Data Analysis (Python, SQL, R and Tableau)
 
